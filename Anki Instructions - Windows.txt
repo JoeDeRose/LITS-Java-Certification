@@ -1,0 +1,35 @@
+(These instructions describe the Windows interface. If the Mac or Linux interface is different, please add a version of this file with the appropriate modifications.)
+
+--------------------------------------------------
+GETTING STARTED:
+
+(1) Download the appropriate version of Anki from http://ankisrs.net/ (you will need a desktop version to edit decks, and may also want a 
+mobile version).
+(2) Open Anki and import (File > Import) the "Java Certification.apkg" file stored on the ocp-java Slack channel: https://litsdevs.slack.com/messages/ocp-java/files/F0308RSUW/
+
+--------------------------------------------------
+IMPORTING A DECK
+(1) Import (File > Import) the new deck.
+(2) Continue below with "Integrating a Deck".
+
+--------------------------------------------------
+INTEGRATING A DECK
+
+(1) From the Anki main interface, click "Browse".
+(2) Select the deck from the menu at the left.
+(3) Select all cards (Edit > Select All).
+(4) Click "Change Deck" from the menu at the top.
+(5) Select "Java Certification" and click "Move Cards".
+(6) Close the Anki Browser window.
+(7) Click the down arrow to the right of the newly imported (but now empty) deck and select "Delete".
+
+
+--------------------------------------------------
+GENERATING NEW CARDS
+(1) From the Anki main interface, click "Browse".
+(2) Click "Add" on the top menu.
+(3) Type should be set to "Template - Java Certification"; if it is not, click on the button and select "Template - Java Certification" from the list. (It should be available based on the import of the original deck.
+(4) Under Deck, click the "Add" button and create a deck based on the following nomenclature: "Java Certification - Your Name - YYYY-MM-DD" (e.g., "Java Certification - Joe DeRose - 2014-11-18").
+(5) Create your cards by filling in the "Front" (Question) and "Back" (Answer) fields, and clicking "Add" until you are finished. (Note that you can edit HTML by selecting "Edit HTML" from the drop-down arrow at the right of the formatting icons group, or by pressing SHIFT-CTRL-X.)
+(6) Close the Anki Browser window and export (File > Export) the new deck. Make sure to uncheck "Include scheduling information" (as this is relevant to a particular individual's study of the deck).
+(7) Assuming you now want the new content to be part of the main "Java Certification" deck, continue above with "Integrating a Deck".
